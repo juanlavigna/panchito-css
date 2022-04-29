@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+.centrar {
+    margin: 0px auto;
+}
+.pan {
+    background-color: #c79150;
+    height: 60px;
+    width: 450px;
+    
+}
+#salchicha{
+    border: 1px none black;
+    background-color: #b64840;
+    height: 60px;
+    width: 550px;
+    border-radius: 50px;
+}
+
+#pan-superior {
+    border-bottom: #996f3b;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom: solid;
+    border-bottom-width: 8px;
+    border-bottom-color: #a37844;
+}
+
+#pan-inferior {
+    border-top: #996f3b;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top: solid;
+    border-top-width: 8px;
+    border-top-color: #a37844;
+}
+
